@@ -1,0 +1,9 @@
+# Compiled files
+*.o
+*.elf
+*.bin
+*.img
+*.d
+
+# Editor
+.vscode/

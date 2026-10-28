@@ -1,0 +1,10 @@
+* text=auto
+*.c text eol=lf
+*.h text eol=lf
+*.s text eol=lf
+*.S text eol=lf
+Makefile text eol=lf
+**/Makefile text eol=lf
+*.ld text eol=lf
+*.sh text eol=lf
+.gdbinit text eol=lf
